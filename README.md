@@ -1,5 +1,8 @@
 # Caderno Temático: Sinais e Sistemas 1
 
+## Link do NotebookLm:
+https://notebook.google.com/notebook/2581068d-4b33-4c2d-8743-1aabdd5c2e1a
+
 ## Contexto e Objetivos
 Este repositório contém um Caderno Temático desenvolvido com o auxílio do NotebookLM para a disciplina de **Sinais e Sistemas 1**. O objetivo é organizar conceitos fundamentais da matéria, estruturar resumos e otimizar a revisão do conteúdo.
 
